@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\bin\Debug\net5.0\DateTimeExcercise.exe
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\bin\Debug\net5.0\DateTimeExcercise.deps.json
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\bin\Debug\net5.0\DateTimeExcercise.runtimeconfig.json
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\bin\Debug\net5.0\DateTimeExcercise.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\bin\Debug\net5.0\DateTimeExcercise.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\bin\Debug\net5.0\ref\DateTimeExcercise.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\bin\Debug\net5.0\DateTimeExcercise.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\obj\Debug\net5.0\DateTimeExcercise.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\obj\Debug\net5.0\DateTimeExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\obj\Debug\net5.0\DateTimeExcercise.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\obj\Debug\net5.0\DateTimeExcercise.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\obj\Debug\net5.0\DateTimeExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\obj\Debug\net5.0\DateTimeExcercise.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\obj\Debug\net5.0\ref\DateTimeExcercise.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\obj\Debug\net5.0\DateTimeExcercise.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\DateTimeExcercise\DateTimeExcercise\obj\Debug\net5.0\DateTimeExcercise.genruntimeconfig.cache

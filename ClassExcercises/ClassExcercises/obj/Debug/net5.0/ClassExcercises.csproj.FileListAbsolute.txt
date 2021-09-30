@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\bin\Debug\net5.0\ClassExcercises.exe
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\bin\Debug\net5.0\ClassExcercises.deps.json
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\bin\Debug\net5.0\ClassExcercises.runtimeconfig.json
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\bin\Debug\net5.0\ClassExcercises.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\bin\Debug\net5.0\ClassExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\bin\Debug\net5.0\ref\ClassExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\bin\Debug\net5.0\ClassExcercises.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\obj\Debug\net5.0\ClassExcercises.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\obj\Debug\net5.0\ClassExcercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\obj\Debug\net5.0\ClassExcercises.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\obj\Debug\net5.0\ClassExcercises.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\obj\Debug\net5.0\ClassExcercises.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\obj\Debug\net5.0\ClassExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\obj\Debug\net5.0\ref\ClassExcercises.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\obj\Debug\net5.0\ClassExcercises.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Thursday\ClassExcercises\ClassExcercises\obj\Debug\net5.0\ClassExcercises.genruntimeconfig.cache
